@@ -12,8 +12,7 @@
 
 ### 🔥 GitHub Stats  
 ![BamWidyat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BamWidyat&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BamWidyat&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=BamWidyat&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BamWidyat&layout=compact&theme=radical).   
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BamWidyat&theme=radical&no-bg=true&no-frame=true)  
 ![BamWidyat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BamWidyat&theme=radical)  
 
